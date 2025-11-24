@@ -1,0 +1,14 @@
+com\mycompany\pojosandmongodb\model\Mascota.class
+com\mycompany\pojosandmongodb\repository\MascotaDAO.class
+com\mycompany\pojosandmongodb\config\MongoConfig.class
+com\mycompany\pojosandmongodb\repository\IMascotaDAO.class
+com\mycompany\pojosandmongodb\exception\EntityNotFoundException.class
+com\mycompany\pojosandmongodb\model\Telefono.class
+com\mycompany\pojosandmongodb\model\Direccion.class
+com\mycompany\pojosandmongodb\Seeder.class
+com\mycompany\pojosandmongodb\App.class
+com\mycompany\pojosandmongodb\repository\IUsuarioDAO.class
+com\mycompany\pojosandmongodb\model\Usuario.class
+com\mycompany\pojosandmongodb\exception\DaoException.class
+com\mycompany\pojosandmongodb\repository\UsuarioDAO.class
+com\mycompany\pojosandmongodb\config\MongoClientProvider.class
