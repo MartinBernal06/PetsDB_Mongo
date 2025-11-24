@@ -80,6 +80,12 @@ public class Mascota {
     public void setTipo(String tipo) {
         this.tipo = tipo;
     }
+
+    @Override
+    public String toString() {
+        return "Mascota{" + "_id=" + _id + ", persona_id=" + persona_id + ", nombre=" + nombre + ", tipo=" + tipo + ", creadoEn=" + creadoEn + '}';
+    }
+    
     
 
 }
